@@ -1,5 +1,5 @@
 - hi, i’m @anayasiraj! (she/her)
-- i’m interested in software development, especially creative applications of it (ex. videogame design, anything that incorporates art or storytelling)
-- i have learned java (rutgers intro to cs + data structures) and javascript (sayreville war memorial high school APCSP).
-- i’m currently learning C at rutgers (computer architecture)!
+- i’m a junior interested in software development, especially creative applications of it (ex. videogame design, anything that incorporates art or storytelling)
+- i have worked in java, javascript, html, css, c, and c# with courses at rutgers (data structures, computer architecture, algorithms) and with personal projects
+- i aim to continue learning more about frontend and backend development through other courses and fullstack projects!
 - i love cats 🐱
